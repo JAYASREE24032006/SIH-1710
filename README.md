@@ -49,8 +49,7 @@ Passenger Issue Reporting & Feedback System: Users can report problems such as o
 Seamless Integration with Transport Services: The system links with railway services for ticket booking, emergency assistance, and multimodal transport options, ensuring a connected and efficient travel experience. 
 
 ## Technology Stack
-![image](https://github.com/user-attachments/assets/bb55d800-dfca-4764-a024-b213037f6fa6)
-
+![image](https://github.com/user-attachments/assets/35349926-ec65-4601-b766-5d6e526d790f)
 
 ## Dependencies
 The project will leverage a combination of front-end, back-end, and AI/ML technologies to ensure efficient and user-friendly navigation within railway stations.
